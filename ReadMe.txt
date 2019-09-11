@@ -1,0 +1,1 @@
+When lauching the DictionaryServer.jar, Please use Absolute File Path on the field "File Path", otherwise, you cannot launch the server.
